@@ -17,5 +17,5 @@ Mais um passo na evolução contínua em Business Intelligence e análise de dad
 - Evolução mensal
 
 ## 🖼️ Dashboard
-![Dashboard](imagens/dashboard_print.png)
+C:\Users\olive\OneDrive\Área de Trabalho\Relatórios Power_Bi\Imagens
 

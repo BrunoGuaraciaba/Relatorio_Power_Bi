@@ -8,6 +8,8 @@ Mais um passo na evolução contínua em Business Intelligence e análise de dad
 
 ## 🛠 Ferramentas Utilizadas
 - Power BI Desktop
+- Power Query (ETL)
+- DAX
 - Excel
 - GitHub
 

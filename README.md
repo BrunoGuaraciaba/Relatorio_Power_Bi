@@ -17,5 +17,5 @@ Mais um passo na evolução contínua em Business Intelligence e análise de dad
 - Evolução mensal
 
 ## 🖼️ Dashboard
-C:\Users\olive\OneDrive\Área de Trabalho\Relatórios Power_Bi\Imagens
+https://github.com/BrunoGuaraciaba/Relatorio_Power_Bi/blob/main/Imagens/Painel_Negociacoes.pdf
 
